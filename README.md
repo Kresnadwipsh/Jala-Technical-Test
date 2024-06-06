@@ -66,4 +66,4 @@ parameter permitaan model - Revenue :
 
 <br>
 
-Terima Kasih Atas Kesempatannya
+Terima Kasih Atas Kesempatannya <img src= "https://cdn.shopify.com/s/files/1/1061/1924/products/18_1024x1024.png?v=1571606118" width="20" />
