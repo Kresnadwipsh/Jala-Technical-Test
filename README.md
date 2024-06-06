@@ -35,7 +35,7 @@ parameter permitaan model - ABW :
 **total_feed(kg)** |float | Total pakan yang diberikan
 **avg_tray_number** | float |(Aggregasi) rata anco yang digunakan
 **avg_feed_remain%** | float |(Aggregasi) rata sisa pakan dalam persen(%)
-**count_fasting** | float |Jumlah berapa kali siklus tersebut puasa. Referensi Disini.
+**count_fasting** | float |Jumlah berapa kali siklus tersebut puasa
 **total_mortal** | float |(Aggregasi) Jumlah benih mati
 **avg_weight_mortal** | float |(Aggregasi) rata berat per udang mati
 
