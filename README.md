@@ -9,7 +9,7 @@
 ##  JALA Data Scientist Technical Test 
 <img src= https://strapi.jala.tech/uploads/jala_logo_6298181eb0.png width="1000" height="800" />
 
-###  Limitation & Apology 
+##  Limitation & Apology 
 Maaf saya belum dapat mengembangkan koneksi API, terima kasih
 
 Terima Kasih Atas Kesempatannya
